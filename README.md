@@ -1,4 +1,4 @@
-# AI Automated Video Generator (att)
+# AI Automated Video Generator
 
 This project is an automated pipeline that generates meditation and motivational videos by combining AI-generated audio/transcriptions with stock footage.
 
